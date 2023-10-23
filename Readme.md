@@ -22,7 +22,7 @@ This program calculates the BMI and asks the user for their rating and feedback.
 
 1. Compile the program: You can compile the program using a C compiler, for example, GCC.
    ```shell
-   gcc bmi_feedback.c -o bmi_feedback
+   gcc BMIcalculator.c -o BMIcalculator.c
 Run the program:
 
 shell
