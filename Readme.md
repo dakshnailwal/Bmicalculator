@@ -36,7 +36,7 @@ You will be asked to rate your experience and provide feedback.
 
 The program will display a "Thank You" message.
 
-Prerequisites
+## Prerequisites
 C compiler (e.g., GCC) installed on your system.
-License
+## License
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as needed.
